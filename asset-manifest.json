@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/newssite/static/css/main.a16ca2cd.css",
+    "main.js": "/newssite/static/js/main.8475959e.js",
+    "static/js/787.daefa1f1.chunk.js": "/newssite/static/js/787.daefa1f1.chunk.js",
+    "static/media/ns2.jpg": "/newssite/static/media/ns2.c8211f023bdd13b6e06f.jpg",
+    "static/media/ns7.jpeg": "/newssite/static/media/ns7.fe00f79a786748e08cf6.jpeg",
+    "static/media/ns1.jpg": "/newssite/static/media/ns1.018ec888bf5d1d93193a.jpg",
+    "static/media/ns8.jpg": "/newssite/static/media/ns8.f601d24337c0d949b5c3.jpg",
+    "static/media/ns4.jpg": "/newssite/static/media/ns4.4f83c03f47efe5d3553b.jpg",
+    "static/media/insta_black.png": "/newssite/static/media/insta_black.676c4e22b362bfbcc55e.png",
+    "static/media/ns9.jpg": "/newssite/static/media/ns9.f202c6b648c16511a1d2.jpg",
+    "static/media/ns5.jpg": "/newssite/static/media/ns5.b570e3a0cf61dc91077f.jpg",
+    "static/media/ns3.jpg": "/newssite/static/media/ns3.a64036bc58f6c31d5f42.jpg",
+    "static/media/insta_white.png": "/newssite/static/media/insta_white.ed5ed57e98d053cf1e55.png",
+    "static/media/X_white.png": "/newssite/static/media/X_white.8be4f7446e1c0b794d02.png",
+    "static/media/bgart.jpg": "/newssite/static/media/bgart.848469333cfe24c7b921.jpg",
+    "static/media/You_black.png": "/newssite/static/media/You_black.3ec7554586564c5832dd.png",
+    "static/media/ns6.jpg": "/newssite/static/media/ns6.60ab45795b3c82e09d60.jpg",
+    "static/media/girlstock.jpg": "/newssite/static/media/girlstock.d49af32b9696df60c6ae.jpg",
+    "static/media/pin_black.png": "/newssite/static/media/pin_black.d36ac881b2c6c61be978.png",
+    "static/media/Retrospect-logos_transparent.png": "/newssite/static/media/Retrospect-logos_transparent.2d957309d4895ad60b71.png",
+    "static/media/Retrospect-logos_white.png": "/newssite/static/media/Retrospect-logos_white.9de466107b3b20dd13ee.png",
+    "static/media/pin_white.png": "/newssite/static/media/pin_white.23dcd48cd87a6fabd5e2.png",
+    "index.html": "/newssite/index.html",
+    "main.a16ca2cd.css.map": "/newssite/static/css/main.a16ca2cd.css.map",
+    "main.8475959e.js.map": "/newssite/static/js/main.8475959e.js.map",
+    "787.daefa1f1.chunk.js.map": "/newssite/static/js/787.daefa1f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a16ca2cd.css",
+    "static/js/main.8475959e.js"
+  ]
+}
